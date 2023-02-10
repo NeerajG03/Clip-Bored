@@ -1,9 +1,6 @@
-# Clip-Bored
-
-Clip-Bored is a user-friendly and efficient tool for simulating keystrokes from the clipboard. Whether you're testing a website or automating repetitive tasks, Clip-Bored makes it easy to paste text or data from the clipboard into your application, quickly and accurately. With its intuitive interface and powerful features, Clip-Bored is the perfect solution for anyone looking to streamline their workflow and simplify their life.
-
 # 🚀 Clip-Bored 💻
 Tired of tedious manual copying and pasting? 💤 Say hello to effortless simulation with Clip-Bored! 🎉 Emulate your clipboard operations with ease and never be bored with your workflow again. 💪
+Clip-Bored is a user-friendly and efficient tool for simulating keystrokes from the clipboard. Whether you're testing a website or automating repetitive tasks😪, Clip-Bored makes it easy to paste text or data from the clipboard into your application, quickly and accurately. With its intuitive interface and powerful features,💎 Clip-Bored is the perfect solution for anyone looking to streamline their workflow and simplify their life.
 
 ## 📈 Features
 * Effortless clipboard simulation
